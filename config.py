@@ -5,7 +5,7 @@ from logging.handlers import RotatingFileHandler
 
 
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7817262970:AAEppH6HL3Cg6CtKRQ5PN-Rq_vvZ_Cqxk0M")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6920732968:AAEyiNg_r2rrvtkZKb9Rt5Gcdb-H76uRekA")
 API_ID = int(os.environ.get("API_ID", "27634238"))
 API_HASH = os.environ.get("API_HASH", "f892961f93178c81c36ddccfe082e06e")
 
@@ -15,7 +15,7 @@ DB_URL = os.environ.get("DB_URL", "mongodb+srv://mihaja5084:yeIh95RrMkRNZ3It@clu
 DB_NAME = os.environ.get("DB_NAME", "madflixbotz")
 
 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002395599804"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002479913160"))
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "0"))
 
 
